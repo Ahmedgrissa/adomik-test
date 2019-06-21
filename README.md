@@ -14,7 +14,7 @@ The user of the program wants to see:
 - the website with the highest cpm (1)
 - the cpm (1) for each website, rounded to 2 decimals, sorted by cpm in descendant order
 > (1) cpm is the cost per thousand impressions (technically, “cost per mille”).
-> (1) cpm = (revenue / impressions) * 1000
+> *cpm = (revenue / impressions) * 1000*
 
 The class of the program must output the report formatted in plain text, followed by the report in HTML
 
